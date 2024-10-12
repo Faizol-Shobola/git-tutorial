@@ -8,3 +8,13 @@ h1 {
     color: red;
     margin-top: 20px;
 }
+.cta-button {
+    padding: 10px 20px;
+    border: 1px solid white;
+    color: white;
+    font-size: 16px;
+    background-color: green;
+    cursor: pointer;
+    margin-top: 20px;
+    border-radius: 10px;
+}
